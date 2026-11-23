@@ -1,0 +1,8 @@
+python-telegram-bot>=22,<23
+python-dotenv
+ddgs
+pillow
+pysentimiento>=0.7.3
+transformers>=4.6.1
+torch>=2.0.0
+scikit-learn
